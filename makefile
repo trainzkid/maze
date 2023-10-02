@@ -1,6 +1,6 @@
-NAME = Maze
+NAME = maze
 CXX = g++
-CXXFLAGS = -std=c++23 -Ofast -Wall
+CXXFLAGS = -std=c++23 -Ofast
 SOURCES_DIR = src
 BUILD_DIR = build
 LIBS = -I./head
