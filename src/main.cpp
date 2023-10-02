@@ -1,4 +1,4 @@
-#include <maze.h>
+#include <generator.h>
 
 int main() {
 	maze::generator g;
